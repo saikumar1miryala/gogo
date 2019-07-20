@@ -1,7 +1,7 @@
 {
   "name": "node-demo",
   "version": "1.0.0",
-  "description": "Nodes.js hello world demo",
+  "description": "Node.js hello world demo",
   "author": "OpsWorkshop ",
   "main": "app.js",
   "scripts": {
